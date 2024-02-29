@@ -6,4 +6,4 @@ The agreement has since expired and the research is published in XXX *[coming ve
 
 The code is provided as was in 2017 (for the purposes of the research paper), which required python 2.7, sklearn 0.18.1 or sklearn 0.18.2 plus numpy 0.13
 <br>In the research, several alternative options were tried, including separate classification and regression strategies and various Boost methods.
-The code includes the classification methods used and the regression methods that were used are commented out.
+The code includes the classification methods used in the final analyses whilst the regression methods that were used are commented out.
